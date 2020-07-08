@@ -1,0 +1,45 @@
+
+body{
+    font-family: Poppins;
+    font-style: normal;
+}
+
+.e-learning-button{
+    color: white;
+    border: none;
+    border-radius: 33px;
+    padding: 12px 28px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    background: #21B573;
+}
+.navbar-item-layout{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    color:black;
+}
+.top-container-bg{
+    background: #F0FFF0;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+.navbar-layout{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 30px; 
+    padding-bottom: 30px ;
+}
+.orange-text{
+    color:  #FD511A;
+}
+.heading-text{
+    color:#21B573;
+    font-weight: bold;
+    font-size: 48px;
+}
