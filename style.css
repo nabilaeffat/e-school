@@ -88,8 +88,11 @@ background: #FFFFFF;
 box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
 border-radius: 18px;
 }
-.card, {
+.card {
     border: none;
     border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
+}
+.btn-link{
+    color: #21B573;
 }
